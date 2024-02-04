@@ -3,7 +3,7 @@
 #### 🔭🌱 I’m currently learning competitive programming, Full Stack Next.js development, Web3 with Solidity and MLOps
 
 
-#### ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=acdemichele&show_icons=true&theme=tokyonight)
+#### ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=acdemichele&show_icons=true&theme=radical)
 <!--
 **acdemichele/acdemichele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
