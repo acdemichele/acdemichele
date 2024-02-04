@@ -1,5 +1,9 @@
 ### Hi there 👋
+#### I am a Computer Engineering Graduate and Full-Stack Developer. Thanks for stopping by!
+#### 🔭🌱 I’m currently learning competitive programming methodologies, Full Stack Next.js development, Web3 with Solidity and MLOps
 
+
+#### ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=acdemichele&show_icons=true&theme=tokyonight)
 <!--
 **acdemichele/acdemichele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
