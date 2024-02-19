@@ -23,7 +23,6 @@
 <h3>Databases</h3>
 <a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="mysql" width="40" height="40"/> </a>
 
 
 
