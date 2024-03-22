@@ -2,9 +2,10 @@
 <h1 align="center">Thanks for stopping by! 👋</h1>
 <p align="center"> My name is Alex and I am a full stack software developer interested in full-stack product development, Web3 and MLOps. </p>
 
+<div align="center">
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=acdemichele&show_icons=true&theme=radical&hide_rank=true)
 <!--   dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-
+</div>
 <h2>Tech Stack </h2>
 
 <h3>Front-end</h3> 
