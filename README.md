@@ -6,6 +6,15 @@
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=acdemichele&show_icons=true&theme=radical&hide_rank=true)
 <!--   dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
+
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=acdemichele&show_icons=true&theme=radical&hide_rank=true" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=acdemichele&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 <h2>Tech Stack </h2>
 
 <div align="center">
