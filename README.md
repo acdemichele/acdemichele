@@ -2,12 +2,13 @@
 <h1 align="center">Thanks for stopping by! 👋</h1>
 <p align="center"> My name is Alex and I am a full stack software developer interested in full-stack product development, Web3 and MLOps. </p>
 
-<div align="center">
+
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=acdemichele&show_icons=true&theme=radical&hide_rank=true)
 <!--   dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-</div>
+
 <h2>Tech Stack </h2>
 
+<div align="center">
 <h3>Front-end</h3> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -25,7 +26,7 @@
 <a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 
-
+</div>
 
 
 <!--
