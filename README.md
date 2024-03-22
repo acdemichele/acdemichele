@@ -2,12 +2,12 @@
 <h1>Thanks for stopping by! 👋</h1>
 <p> My name is Alex and I am a full stack software developer interested in full-stack product development, Web3 and MLOps. </p>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; gap: 20px; width: 100%;">
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=acdemichele&show_icons=true&theme=great-gatsby&hide_rank=true" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=acdemichele&show_icons=true&theme=great-gatsby&hide_rank=true" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=acdemichele&layout=compact&langs_count=8&card_width=320&theme=great-gatsby" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=acdemichele&layout=compact&langs_count=8&card_width=320&theme=great-gatsby" />
 </a>
 </div>
 
