@@ -2,7 +2,7 @@
 <h1>Thanks for stopping by! 👋</h1>
 <p> My name is Alex and I am a full stack software developer interested in product development, Web3 and MLOps. </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=acdemichele&theme=calm-pink)](https://github.com/acdemichele)
+[![](https://streak-stats.demolab.com/?user=acdemichele&theme=calm-pink)](https://github.com/acdemichele)
 
 <h2>Tech Stack </h2>
 
